@@ -159,3 +159,51 @@ color: #171717;
     left: 240px;
 }
 /*----------header-----------------*/
+/* Section oto */
+.about-services{
+    max-width: 1920px;
+    margin-top: 180px;
+    margin-left: 240px;
+}
+.about-us p{
+    font-size: 16px;
+    vertical-align: top;
+    margin-top: 60px;
+    display: inline-block;
+    max-width: 463px;
+    
+}
+.about-us img{
+    vertical-align: top;
+    display: inline-block;
+    width: 707px;
+    height: 707px;
+    margin-left: 137px;
+    margin-top: 182px;
+
+}
+.about-us{
+    vertical-align: middle;
+    width: 100%;
+}
+/* span{ */
+    /* background-color: blue; */
+h3{
+    margin-top: 394px;
+    margin-left: 855px;
+}
+.services p{
+    vertical-align: top;
+    display: inline-block;
+    width: 463px;
+    margin-left: 138px;
+    margin-top: 60px;
+    
+}
+.services img{
+    vertical-align: top;
+    display: inline-block;
+    max-width: 707px;
+    height: 100%;
+    margin-top: 182px;
+}
